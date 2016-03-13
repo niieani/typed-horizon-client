@@ -1,0 +1,14 @@
+{
+  "name": "@horizon/client",
+  "version": false,
+  "main": "lib/index.d.ts",
+  "dependencies": {
+    "lower-case": "npm:lower-case",
+    "sentence-case": "npm:sentence-case",
+    "snake-case": "npm:snake-case"
+  },
+  "ambientDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160215162030",
+    "rx": "npm:rx/ts/rx.all.d.ts"
+  }
+}
